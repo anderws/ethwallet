@@ -1,5 +1,5 @@
-#
 
 ## Install
-npm install dotenv <br/>
-npm install ethers
+npm install <br/>
+## Start
+npm start
